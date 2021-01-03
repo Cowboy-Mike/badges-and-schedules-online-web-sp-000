@@ -9,3 +9,8 @@ def batch_badge_creator(attendees)
     "Hello, my name is #{attendees}."
     end
 end
+
+def assign_rooms(attendees)
+  room = [1,2,3,4,5,6,7]
+  attendees.
+end
